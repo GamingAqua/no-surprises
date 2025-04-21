@@ -28,7 +28,7 @@ def print_lirik(bpm):
         ("No alarms and no surprises", 2.5  * beat ,  0.1 * beat ),
         ("No alarms and no surprises", 2.5  * beat ,  0.1 * beat ),
         ("No alarms and no surprises, please", 2.5 * beat ,  0.1 * beat ),
-        ("", 20, 0.0),
+        ("", 30, 0.0),
         ("Such a pretty house", 2.5  * beat ,  0.1 * beat ),
         ("And such a pretty garden", 2.5  * beat ,  0.1 * beat ),
         
